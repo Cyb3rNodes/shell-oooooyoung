@@ -135,7 +135,7 @@ send_token() {
 
 echo && echo -e " ${Red_font_prefix}dusk_network 一Key installation script${Font_color_suffix} by \033[1;35moooooyoung\033[0m
 This script is completely free and open source, created by Twitter user ${Green_font_prefix}@ouyoung11${Font_color_suffix}, 
-and translated by ${Green_font_prefix}@cyb3r_nodes{Font_color_suffix}。
+and translated by ${Green_font_prefix}@cyb3r_nodes${Font_color_suffix}。
  ———————————————————————
  ${Green_font_prefix} 1.Install dependencies and full node ${Font_color_suffix}
  ${Green_font_prefix} 2.Create a wallet ${Font_color_suffix}
